@@ -25,7 +25,7 @@ A production-grade command-line tool that generates penetration testing and CTF 
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/minalhassan/Ptool.git
 cd ptool
 
 # Create virtual environment
